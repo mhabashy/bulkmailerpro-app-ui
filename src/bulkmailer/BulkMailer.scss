@@ -1,0 +1,12 @@
+.small-link {
+    font-size: 0.8em;
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+.enable-y-scroll {
+    overflow-y: scroll;
+}
+

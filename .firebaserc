@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "bulkmailerpro-dev",
+    "prod": "bulkmailerpro"
+  },
+  "targets": {
+    "bulkmailerpro": {
+      "hosting": {
+        "app": [
+          "dist"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
