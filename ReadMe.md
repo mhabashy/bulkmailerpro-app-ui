@@ -3,7 +3,7 @@
 
 https://github.com/mhabashy/starter-reactjs-firebase-vite-mantine
 
-### This application is used in https://app.bulkmailer.pro this the frontend UI for application that sends mass email. If you like to add to this code make PR.
+### This application is used in [https://app.bulkmailer.web.app](https://bulkmailerpro-app.web.app/) this the frontend UI for application that sends mass email. If you like to add to this code make PR.
 
 ### - Vite
 ### - ReactJS
